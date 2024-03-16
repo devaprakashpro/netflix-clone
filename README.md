@@ -1,1 +1,1 @@
-https://deva-netflix.netlify.app/
+https://devaprakashpro.github.io/netflix-clone/
